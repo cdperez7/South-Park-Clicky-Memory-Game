@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -21,13 +21,11 @@
 
 .App-link {
   color: #61dafb;
-}
+} */
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.mainContainer {
+  padding: 0;
+  background-color: rgba(0, 0, 0, 0.03);
+  min-height: 100vh;
+  padding-bottom: 100px;
 }
