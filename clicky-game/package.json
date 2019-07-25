@@ -2,7 +2,7 @@
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://myname.github.io/myapp",
+  "homepage" : "http://cdperez7.github.io/South-Park-Clicky-Memory-Game",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
