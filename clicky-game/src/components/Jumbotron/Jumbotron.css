@@ -6,15 +6,18 @@
     background-size: cover;
     margin-bottom: 0px;
     text-align: center;
+    height: 500px;
 }
 
 .jumbotron h1 {
     font-size: 65px;
     font-weight: bold;
     color: red;
+    margin-top: 0px;
 }
 
 .jumbotron p {
     font-size: 18px;
-    font-weight: 500;
+    font-weight: 700;
+    color: red;
 }

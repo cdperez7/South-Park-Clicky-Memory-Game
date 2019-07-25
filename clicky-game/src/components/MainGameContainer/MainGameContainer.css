@@ -6,8 +6,9 @@
 .gameMessage{
     font-weight: 500;
     background-color: black;
+    text-align: center;
     color: white;
-    padding: 20px 0;
+    padding: 5px 0;
     margin-bottom: 0px;
 }
 
@@ -20,8 +21,9 @@
 
 .gameScores p {
     font-weight: 500;
-    background-color: black;
+    background-color: lightcoral;
     color: white;
     padding: 20px 0;
     margin-bottom: 25px;
+    margin-top: 0px;
 }
