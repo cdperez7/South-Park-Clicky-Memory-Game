@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/South-Park-Clicky-Memory-Game/static/css/main.1ed5b683.chunk.css",
-    "main.js": "/South-Park-Clicky-Memory-Game/static/js/main.313f7108.chunk.js",
-    "main.js.map": "/South-Park-Clicky-Memory-Game/static/js/main.313f7108.chunk.js.map",
-    "runtime~main.js": "/South-Park-Clicky-Memory-Game/static/js/runtime~main.f97d5ade.js",
-    "runtime~main.js.map": "/South-Park-Clicky-Memory-Game/static/js/runtime~main.f97d5ade.js.map",
-    "static/js/2.6efc73d3.chunk.js": "/South-Park-Clicky-Memory-Game/static/js/2.6efc73d3.chunk.js",
-    "static/js/2.6efc73d3.chunk.js.map": "/South-Park-Clicky-Memory-Game/static/js/2.6efc73d3.chunk.js.map",
-    "index.html": "/South-Park-Clicky-Memory-Game/index.html",
-    "precache-manifest.19e2f96f95351bab74a61cc04c1438f3.js": "/South-Park-Clicky-Memory-Game/precache-manifest.19e2f96f95351bab74a61cc04c1438f3.js",
-    "service-worker.js": "/South-Park-Clicky-Memory-Game/service-worker.js",
-    "static/css/main.1ed5b683.chunk.css.map": "/South-Park-Clicky-Memory-Game/static/css/main.1ed5b683.chunk.css.map"
+    "main.css": "/clicky-game/static/css/main.1ed5b683.chunk.css",
+    "main.js": "/clicky-game/static/js/main.58ddd65b.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.58ddd65b.chunk.js.map",
+    "runtime~main.js": "/clicky-game/static/js/runtime~main.27874bd3.js",
+    "runtime~main.js.map": "/clicky-game/static/js/runtime~main.27874bd3.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/clicky-game/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/clicky-game/static/js/2.6efc73d3.chunk.js.map",
+    "index.html": "/clicky-game/index.html",
+    "precache-manifest.88fe7ee992caaff389e91ffc50c34f64.js": "/clicky-game/precache-manifest.88fe7ee992caaff389e91ffc50c34f64.js",
+    "service-worker.js": "/clicky-game/service-worker.js",
+    "static/css/main.1ed5b683.chunk.css.map": "/clicky-game/static/css/main.1ed5b683.chunk.css.map"
   }
 }
