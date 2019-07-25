@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
-// import MemoryCard from '../MemoryCard';
+import MemoryCard from '../MemoryCard';
 import images from "../../images.json";
-// import "./MainGameContainer.css"
+import "./MainGameContainer.css"
 
 class MainGameContainer extends Component{
     state = {
@@ -16,7 +16,7 @@ class MainGameContainer extends Component{
         const imageOrder = this.state.images;
 
         if (clicked){
-            imageOrder.forEach((image) => {
+            imageOrder.forEach((image, index) => {
                 imageOrder[index].clicked = false;
             });
 
