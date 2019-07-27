@@ -1,6 +1,8 @@
 .mainCardContainer{
     margin-bottom: 50px;
     padding: 0;
+    width: 100%;
+    padding-right: 0px;
 }
 
 .gameMessage{
@@ -8,7 +10,7 @@
     background-color: black;
     text-align: center;
     color: white;
-    padding: 5px 0;
+    padding: 10px 0;
     margin-bottom: 0px;
 }
 
@@ -26,4 +28,9 @@
     padding: 20px 0;
     margin-bottom: 25px;
     margin-top: 0px;
+}
+
+.mainContainer{
+    padding-left: 15px;
+    padding-right: -15px;
 }

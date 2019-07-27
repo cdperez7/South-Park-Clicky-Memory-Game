@@ -88,5 +88,11 @@
         "name": "wow",
         "click": false,
         "image": "https://memegenerator.net/img/images/14749203.jpg"
+    },
+    {
+        "id": 16,
+        "name": "sheila",
+        "click": false,
+        "image": "https://vignette.wikia.nocookie.net/spsot/images/7/7d/Sheila_friend_icon.png/revision/latest?cb=20140425143321"
     }
 ]
