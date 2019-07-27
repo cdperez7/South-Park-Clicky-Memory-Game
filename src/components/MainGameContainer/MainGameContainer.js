@@ -49,7 +49,7 @@ class MainGameContainer extends Component{
 
     render() {
         return (
-            <div className = "container-fluid mainCardContainer py-0">
+            <div className = "container-fluid mainCardContainer">
                 <div className = "gameMessage text-center">
                     <p>{this.state.message}</p>
                 </div>
