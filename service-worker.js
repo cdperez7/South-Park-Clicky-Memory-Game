@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/South-Park-Clicky-Memory-Game/precache-manifest.644bc80c5acab6abcb53afac3b1ca15c.js"
+  "/South-Park-Clicky-Memory-Game/precache-manifest.53783fe0c6c834317859869798d1202b.js"
 );
 
 self.addEventListener('message', (event) => {
