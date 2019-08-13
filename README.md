@@ -1,9 +1,10 @@
-## South Park Memory Game
+### South Park Memory Game
 
 This South Park memory game was created using the React Javascript Library. The goal of the game is to click all 15 characters without clicking on the same character twice. You will be told if your guess is correct or incorrect and your high score is stored after each round.
 
 Deployed link: https://cdperez7.github.io/South-Park-Clicky-Memory-Game/
 
+## Example Images
 
 The game will randomly place characters on your screen and you must click through them.
 
